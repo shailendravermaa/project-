@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "_comment": "this command will do that when ,you write .npm run start. in terminal,and in server it actually run npm run node index.js "
+    "_comment": "this command will do that when ,you write ,npm run start. in terminal,and in server it actually run npm run node index.js "
   },
   "keywords": [
     "node",
